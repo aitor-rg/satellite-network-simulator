@@ -1,0 +1,1 @@
+[{"operative": true, "clients": ["Ship1", "Ship4"], "coordinates": [57.012, 9.993], "name": "AAL", "G/T": 8.0}, {"operative": true, "clients": ["Ship2", "Ship3", "Ship5", "Ship6"], "coordinates": [77.875, 20.975], "name": "SVL", "G/T": 12.0}, {"operative": true, "clients": [], "coordinates": [-72.01, 2.53], "name": "TRL", "G/T": 12.0}]
