@@ -20,3 +20,38 @@ E.g.:
 
 ## Mission Customization
 The customization of the mission can be performed in <i>simulator.py</i> by calling the desired high-level functionality inside the simulation loop. You can find the low-level code and the available functions for each object in <i>objects.py</i>.
+
+
+## Source Code
+### Preparation and requirements
+The simulator consists of the following 3 scripts:
+<ol>
+  <li><i>main.py</i>
+  <li><i>simulator.py</i> 
+  <li><i>objects.py</i>
+</ol>
+
+and the following 4 input json files:
+<ol>
+  <li><i>constellation.json</i>
+  <li><i>gs.json</i>
+  <li><i>ships.json</i>
+  <li><i>areas.json</i>
+</ol>
+
+The libraries required are:
+<ul>
+  <li><i>math</i>
+  <li><i>numpy</i> 
+  <li><i>scipy</i>
+  <li><i>pyqtgraph</i>
+</ul>
+
+It might be that extra libraries are needed to import pyqtgraph. The following are some that might be needed, if not installed yet.
+<ul>
+  <li><i>libxcb-randr0-dev</i>
+  <li><i>libxcb-xtest0-dev</i> 
+  <li><i>libxcb-xinerama0-dev</i>
+  <li><i>libxcb-shape0-dev</i>
+  <li><i>libxcb-xkb-dev</i>
+</ul>
