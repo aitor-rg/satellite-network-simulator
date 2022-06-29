@@ -8,7 +8,7 @@ The code is based in object-oriented programming and it is structured in three d
 |   Flag   |                                   Description                                                  |
 |----------|:----------------------------------------------------------------------------------------------:|
 |   `-h`   |   display argument options             |
-|   `-v`   |   [y] enables 3d visualization         |
+|   `-v`   |   [y] enables [n] disables 3d visualization         |
 |   `-dt`  |   simulation sampling time in hours    |
 |   `-c`   |   followed by a .json file with the parameters of the satellite constellation    |
 |   `-gs`  |   followed by a .json file with the parameters of the ground stations   |
